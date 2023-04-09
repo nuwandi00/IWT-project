@@ -1,0 +1,76 @@
+input[type=text1]{
+	border:none;
+	font-size:12px;
+	font-family:sans-serif;
+	border-radius:0px 0px 0px 0px;
+	background:#c8e6c9;
+	border:1px solid #77dd77;
+	box-sizing:border-box;
+	height:37px;
+	width:470px;
+	
+	
+}
+
+input[type=text1]:focus{
+	border-color:green;
+	box-shadow:0 0 8px 0 green;
+}
+
+input[type=email]{
+	border:none;
+	font-size:12px;
+	font-family:sans-serif;
+	border-radius:0px 0px 0px 0px;
+	background:#c8e6c9;
+	border:1px solid #77dd77;
+	box-sizing:border-box;
+	height:37px;
+	width:470px;
+}
+
+input[type=email]:focus{
+	border-color:green;
+	box-shadow:0 0 8px 0 green;
+}
+
+
+
+#message{
+	border-radius:0px 0px 0px 0px;
+	background:#c8e6c9;
+	border:1px solid #77dd77;
+	box-sizing:border-box;
+}
+
+#message:focus{
+	border-color:green;
+	box-shadow:0 0 8px 0 green;
+}
+
+.button2{
+	background:#347c2c;
+	color:white;
+	border-radius:0 0 0 0;
+	cursor:pointer;
+	position:relative;
+	padding:14px;
+	font-family:sans-serif;
+	border:1px solid #77dd77;
+	font-size:14px;
+	width:470px;
+	height:40px;
+}
+
+.button2:hover{
+	color:black;
+	background-color:orange;
+}
+
+.button2:focus{
+	border-color:green;
+	box-shadow:0 0 8px 0 green;
+}
+
+
+

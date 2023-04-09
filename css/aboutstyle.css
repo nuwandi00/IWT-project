@@ -1,0 +1,63 @@
+.header2{
+	text-align:center;
+	font-family:sans-serif;
+	font-size:30px;
+	margin-top:5%;
+	margin-bottom:2%;
+}
+
+.btag{
+	color:green;
+}
+
+.paragraph{
+	text-align:center;
+	font-size:16px;
+	font-family:sans-serif;
+}
+
+.division{
+	background-color:#379200;
+	height:350px;
+	width:350px;
+	float:left;
+	margin:27px;
+	text-align:center;
+	font-size: 24px;
+	font-family:sans-serif;
+	font-style:bold;
+	color:white;
+	padding:30px;
+	align: center;
+}
+
+.hrline{
+	border:solid 2px white;
+	
+}
+
+#para1{
+	font-size:18px;
+	text-align:center;
+	color:white;
+	margin-top:15;
+}
+
+#para2{
+	font-size:18px;
+	text-align:center;
+	color:white;
+	margin-top:15;
+}
+
+#para3{
+	font-size:18px;
+	text-align:center;
+	color:white;
+	margin-top:15;
+}
+.division:hover{
+	transform:scale(1.1);
+	background-color:black;
+	color:#ff8b3d;
+}
